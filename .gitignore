@@ -1,0 +1,16 @@
+.metadata
+.classpath
+.project
+.settings/
+target/
+out/
+test-output/
+.directory
+*.swp
+*.orig
+*.log
+environment.properties
+pom.properties
+.idea/
+*.iml
+
